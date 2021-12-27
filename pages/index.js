@@ -1,4 +1,4 @@
-import Head from 'next/head'
+eimport Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
@@ -6,18 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Welcome to Jost.io!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="He felt that his whole life was some kind of dream, and he sometimes wondered whose it was and whether they were enjoying it." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          - Douglas Adams, Hitchhiker's guide to the galaxy
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
