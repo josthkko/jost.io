@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="He felt that his whole life was some kind of dream, and he sometimes wondered whose it was and whether they were enjoying it." />
         <p className="description">
-          - Douglas Adams, Hitchhiker's guide to the galaxy
+          - Douglas Adams, The Hitchhiker's Guide To The Galaxy
         </p>
       </main>
     </div>
