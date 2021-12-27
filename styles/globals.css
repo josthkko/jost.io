@@ -33,3 +33,8 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.title {
+  width: 650px;
+  text-align: center;
+}
