@@ -7,6 +7,8 @@ export default function Home() {
       <Head>
         <title>Welcome to Jost.io!</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="Welcome to Jost.io! This is a quote from Douglas Adams' The Hitchhiker's Guide To The Galaxy." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
       <main>
@@ -18,3 +20,4 @@ export default function Home() {
     </div>
   )
 }
+
